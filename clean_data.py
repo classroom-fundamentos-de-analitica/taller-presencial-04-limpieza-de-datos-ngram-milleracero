@@ -89,4 +89,4 @@ if __name__ == "__main__":
         output_file="output.txt",
     )
 
-lista = ["input.txt", "output.txt", 2]
+lista = ["input.txt"]
